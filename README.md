@@ -57,5 +57,5 @@ This project provides an interactive visualization dashboard for analyzing senti
 ## ✅ How to Run
 1. Clone the repo:
    ```bash
-   git clone: git clone https://github.com/yourusername/sentiment-analysis-dashboard.git
-   cd sentiment-analysis-dashboardsandhya8109/Sentiment_Analysis.git
+   git clone: git clone https://github.com/sandhya8109/Sentiment_Analysis.git
+   cd Sentiment_Analysis
